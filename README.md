@@ -10,11 +10,11 @@ Modern, friendly utilities for Windows and macOS. TidySweep Software focuses on 
 
 A Windows 10/11 maintenance utility for reviewing installed applications, cleaning unnecessary files, understanding disk usage, and checking official driver updates.
 
-![TidySweep 1.2.1 for Windows](docs/assets/tidysweep-windows-01.png)
+![TidySweep 1.2.2 for Windows](docs/assets/tidysweep-windows-01.png)
 
-**Version 1.2.1 · Website installer available · Microsoft Store certification in progress**
+**Version 1.2.2 · Website installer available · Microsoft Store certification in progress**
 
-[Download TidySweep 1.2.1 for Windows](https://github.com/tidysweepsoftware-lgtm/TidySweep-Software-Releases/releases/download/tidysweep-windows-v1.2.1/TidySweep-Setup-1.2.1.exe) · [Release details and signing notice](https://github.com/tidysweepsoftware-lgtm/TidySweep-Software-Releases/releases/tag/tidysweep-windows-v1.2.1)
+[Download TidySweep 1.2.2 for Windows](https://github.com/tidysweepsoftware-lgtm/TidySweep-Software-Releases/releases/download/tidysweep-windows-v1.2.2/TidySweep-Setup-1.2.2.exe) · [Release details and signing notice](https://github.com/tidysweepsoftware-lgtm/TidySweep-Software-Releases/releases/tag/tidysweep-windows-v1.2.2)
 
 > The website installer uses the current TidySweep Software self-signed certificate, not a publicly trusted commercial Authenticode certificate. Windows SmartScreen or antivirus software may still display a warning.
 
