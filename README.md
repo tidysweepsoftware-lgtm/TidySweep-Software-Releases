@@ -27,7 +27,6 @@ Review installed applications, inspect related files, remove unwanted apps, and 
   <img src="docs/assets/tidysweep-02.png" alt="TidySweep application review" width="48%">
 </p>
 <p align="center">
-  <img src="docs/assets/tidysweep-03.png" alt="TidySweep cleanup tools" width="48%">
   <img src="docs/assets/tidysweep-04.png" alt="TidySweep settings" width="48%">
 </p>
 
@@ -43,7 +42,6 @@ A lightweight screenshot utility with area capture as the default, plus full-win
 </p>
 <p align="center">
   <img src="docs/assets/tidysnipping-03.png" alt="TidySnipping capture modes" width="48%">
-  <img src="docs/assets/tidysnipping-04.png" alt="TidySnipping ready state" width="48%">
 </p>
 
 [Download TidySnipping 1.0.0 for macOS](https://github.com/tidysweepsoftware-lgtm/TidySweep-Software-Releases/releases/download/tidysnipping-v1.0.0/TidySnipping-1.0.0.dmg) · [Release details](https://github.com/tidysweepsoftware-lgtm/TidySweep-Software-Releases/releases/tag/tidysnipping-v1.0.0)
