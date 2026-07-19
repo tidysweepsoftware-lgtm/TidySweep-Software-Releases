@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tidysweepsoftware-lgtm.github.io/TidySweep-Software-Releases/sitemap.xml
