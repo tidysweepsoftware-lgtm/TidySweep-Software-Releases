@@ -10,7 +10,7 @@ Modern, friendly utilities for Windows and macOS. TidySweep Software focuses on 
 
 A Windows 10/11 maintenance utility for reviewing installed applications, cleaning unnecessary files, understanding disk usage, and checking official driver updates.
 
-Now Available in Microsoft Store: https://apps.microsoft.com/detail/9n3pkcj18n99?hl=en-US&gl=DE
+Now Available in Microsoft Store: https://apps.microsoft.com/store/detail/9N3PKCJ18N99?cid=DevShareMCLPCS
 
 ![TidySweep 1.2.3 for Windows](docs/assets/tidysweep-windows-01.png)
 
